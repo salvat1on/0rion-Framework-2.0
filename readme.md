@@ -1,6 +1,5 @@
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/crDBVqg/0rion.png" alt="0rion" border="0"></a>
-
+logo_full.png
 0rion 2.0
 -----------------------------------------------------------------
 0rion has been tested on and is intended for Kali linux
