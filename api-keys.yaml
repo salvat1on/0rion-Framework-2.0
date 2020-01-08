@@ -1,0 +1,21 @@
+apikeys:
+  bing:
+    key: 
+
+  github:
+    key: yourkey
+
+  hunter:
+    key: yourkey
+
+  intelx:
+    key: yourkey
+
+  securityTrails:
+    key: yourkey
+
+  shodan:
+    key: yourkey
+
+  spyse:
+    key: yourkey
