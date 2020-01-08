@@ -1,5 +1,5 @@
 
-logo_full.png
+
 0rion 2.0
 -----------------------------------------------------------------
 0rion has been tested on and is intended for Kali linux
