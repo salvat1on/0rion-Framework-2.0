@@ -6,8 +6,11 @@
 NO LONGER will the 0rion Framework 1.0 be maintained.
 a settings menu for the interface can be found by simply clicking the settings file in the file manager once you start 0rion
 modules reside in the orion directory
+<br>
+  
+  <br><br>
 make sure all modules are marked executable
-
+<br>
 debpg
 edith
 quickpg
@@ -23,8 +26,10 @@ avet/h.sh
 avet/i.sh
 avet/j.sh
 avet/k.sh
+<br><br>
+
 <br>
-  <img alt="" src="https://i.imgur.com/xgsfm1Y.png">
+ 
   <br><br>
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
