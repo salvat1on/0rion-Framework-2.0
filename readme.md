@@ -26,13 +26,13 @@ avet/k.sh
 
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
-                                    now uses a EDex-UI interface ( https://github.com/GitSquared/edex-ui ),
+                                    now uses a EDex-UI interface https://github.com/GitSquared/edex-ui 
                                     all payload generators have been updated,
                                      
 
 
                                     windows payload generator now uses avet with custom build scripts,
-                                    addition of metasploit "mass_exploiter" script ( https://github.com/r00t-3xp10it/resource_files ),
+                                    addition of metasploit "mass_exploiter" script https://github.com/r00t-3xp10it/resource_files 
                                     all recon modules have been combined into the "e.d.i.t.h" module. 
                                     the edith module is the soul 0rion module currently and is intended for blackbox testing.
                                     between a few Y/N statements here is a current list of what edith will prefom on a target.
