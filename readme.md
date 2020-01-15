@@ -28,7 +28,7 @@ avet/k.sh
                                     no longer runs on a lamp/stack,
                                     now uses a EDex-UI interface ( https://github.com/GitSquared/edex-ui ),
                                     all payload generators have been updated,
-                                     <a href="https://imgbb.com/"><img src="https://i.ibb.co/crDBVqg/0rion.png" alt="0rion" border="0"></a>
+                                     
 
 
                                     windows payload generator now uses avet with custom build scripts,
