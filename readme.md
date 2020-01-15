@@ -28,6 +28,7 @@ avet/k.sh
                                     no longer runs on a lamp/stack,
                                     now uses a EDex-UI interface ( https://github.com/GitSquared/edex-ui ),
                                     all payload generators have been updated,
+                                     <img src="https://covert0ps.tk/1.png" border="0">
                                     windows payload generator now uses avet with custom build scripts,
                                     addition of metasploit "mass_exploiter" script ( https://github.com/r00t-3xp10it/resource_files ),
                                     all recon modules have been combined into the "e.d.i.t.h" module. 
