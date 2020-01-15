@@ -23,11 +23,12 @@ avet/h.sh
 avet/i.sh
 avet/j.sh
 avet/k.sh
+<a href="https://covert0ps.tk/"><img src="https://covert0ps.tk/1.png" alt="0rion" border="0"></a>
 
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
                                     now uses a EDex-UI interface https://github.com/GitSquared/edex-ui 
-                                    all payload generators have been updated,
+                                    all payload generators have been updated
                                      
 
 
