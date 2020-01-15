@@ -23,7 +23,7 @@ avet/h.sh
 avet/i.sh
 avet/j.sh
 avet/k.sh
-<a href="https://covert0ps.tk/"><img src="https://covert0ps.tk/1.png" alt="0rion" border="0"></a>
+<a href="https://covert0ps.tk/"><img src="https://covert0ps.tk/1.png" alt="covert0ps.tk/1.png" border="0"></a>
 
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
