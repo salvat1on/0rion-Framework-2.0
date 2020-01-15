@@ -9,6 +9,7 @@ modules reside in the orion directory
 <br>
 <img alt="Logo" src="https://i.imgur.com/9qCfgcH.png">
 <br><br>
+
 make sure all modules are marked executable
 <br>
 debpg
@@ -29,14 +30,14 @@ avet/k.sh
 <br><br>
 
 <br>
-<img alt="Logo" src="https://imgur.com/IV9taGH">
+<img alt="Logo" src="https://i.imgur.com/IV9taGH">
   <br><br>
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
                                     now uses a EDex-UI interface https://github.com/GitSquared/edex-ui 
                                     all payload generators have been updated
        <br>
-<img alt="Logo" src="https://imgur.com/TBTjIJb">
+<img alt="Logo" src="https://i.imgur.com/TBTjIJb">
   <br><br>                              
 
 <br>
@@ -45,7 +46,7 @@ avet/k.sh
                                     <br><br>
                                     
 <br>                                      
-<img alt="Logo" src="https://imgur.com/TBTjIJb">
+<img alt="Logo" src="https://i.imgur.com/TBTjIJb">
   <br><br>                              
 <br>
                                     all recon modules have been combined into the "e.d.i.t.h" module. 
@@ -55,7 +56,7 @@ avet/k.sh
 <br><br>
 
 <br>
-<img alt="Logo" src="https://imgur.com/dRy86Sy">
+<img alt="Logo" src="https://i.imgur.com/dRy86Sy">
   <br><br>                              
 <br>
                           Ask to start anonymous mode
