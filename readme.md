@@ -49,7 +49,7 @@ avet/k.sh
 <br><br>
 
                              
-<br>
+
                           Ask to start anonymous mode
                           1: nmap scan including shodan and vulscan nse scripts
                           2: nikto scan
@@ -161,10 +161,7 @@ avet/k.sh
                                                                 error sql injection
                                                                 es file explorer open port
                                                                 list hosts, services, loot, creds, vulns
-<br><br>
 
-
-<br>
                            10: (keep going?) metasploit auxiliary scan round 2: metasploit will open and run the following modules =
                                                                                 f5 bigIP virtual server,
                                                                                 f5 mgmt scanner
@@ -282,9 +279,7 @@ avet/k.sh
                                                                                 creds
                                                                                 loot
                             
- <br><br>
  
- <br>
  
                            11:  (dig deeper?) metasploit auxiliary scan round 3: metasploit will open and run the following modules =                                                    
                                                                                  wordpress cp calendar sqli
@@ -420,9 +415,6 @@ avet/k.sh
                                                                                  creds
                                                                                  vulns
                                                                                  loot
-<br><br>
-
-<br>
 
                            12: (continue 2 dig?) metasploit auxiliary scan round 4: metasploit will open and run the following modules = 
                                                  vnc login
@@ -524,14 +516,10 @@ avet/k.sh
                                                  vulns
                                                  creds
                                                  loot
-<br><br>
-
-<br>
 
                            13: (exploit the target?) metasploit will attempt to autopwn the target and pop a shell
 
                            stop anonymous mode ?
-<br><br>
 
 debpg is the debian payload generator
 winpg is the windows payload generator (uses avet)
