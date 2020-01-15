@@ -23,7 +23,7 @@ avet/h.sh
 avet/i.sh
 avet/j.sh
 avet/k.sh
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OAmjaJs"><a href="//imgur.com/a/OAmjaJs"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
                                     now uses a EDex-UI interface https://github.com/GitSquared/edex-ui 
