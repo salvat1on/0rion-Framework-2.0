@@ -24,7 +24,7 @@ avet/i.sh
 avet/j.sh
 avet/k.sh
 <br>
-  <img alt="https://imgur.com/xgsfm1Y" src="https://imgur.com/xgsfm1Y">
+  <img alt="" src="[Imgur](https://i.imgur.com/xgsfm1Y.png)">
   <br><br>
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
