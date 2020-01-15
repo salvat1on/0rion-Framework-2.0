@@ -29,25 +29,18 @@ avet/j.sh
 avet/k.sh
 <br><br>
 
-<br>
-<img alt="Logo" src="https://i.imgur.com/IV9taGH">
-  <br><br>
+
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
                                     now uses a EDex-UI interface https://github.com/GitSquared/edex-ui 
                                     all payload generators have been updated
-       <br>
-<img alt="Logo" src="https://i.imgur.com/TBTjIJb">
-  <br><br>                              
 
 <br>
                                     windows payload generator now uses avet with custom build scripts,
                                     addition of metasploit "mass_exploiter" script https://github.com/r00t-3xp10it/resource_files 
                                     <br><br>
                                     
-<br>                                      
-<img alt="Logo" src="https://i.imgur.com/TBTjIJb">
-  <br><br>                              
+                            
 <br>
                                     all recon modules have been combined into the "e.d.i.t.h" module. 
                                     the edith module is the soul 0rion module currently and is intended for blackbox testing.
@@ -55,9 +48,7 @@ avet/k.sh
 
 <br><br>
 
-<br>
-<img alt="Logo" src="https://i.imgur.com/dRy86Sy">
-  <br><br>                              
+                             
 <br>
                           Ask to start anonymous mode
                           1: nmap scan including shodan and vulscan nse scripts
