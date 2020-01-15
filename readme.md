@@ -7,7 +7,7 @@ NO LONGER will the 0rion Framework 1.0 be maintained.
 a settings menu for the interface can be found by simply clicking the settings file in the file manager once you start 0rion
 modules reside in the orion directory
 <br>
-<img alt="Logo" src="https://imgur.com/9qCfgcHScreenshot_20200114_214806">
+<img alt="Logo" src="https://i.imgur.com/9qCfgcH.png">
 <br><br>
 make sure all modules are marked executable
 <br>
