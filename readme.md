@@ -44,7 +44,7 @@ avet/k.sh
 <br>
                                     all recon modules have been combined into the "e.d.i.t.h" module. 
                                     the edith module is the soul 0rion module currently and is intended for blackbox testing.
-                                    between a few Y/N statements here is a current list of what edith will prefom on a target.
+                                    between a few Y/N statements here is a current list of what edith will preform on a target.
 
 <br><br>
 
