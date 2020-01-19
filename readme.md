@@ -6,8 +6,12 @@
 NO LONGER will the 0rion Framework 1.0 be maintained.
 a settings menu for the interface can be found by simply clicking the settings file in the file manager once you start 0rion
 modules reside in the orion directory
-make sure all modules are marked executable
+<br>
+<img alt="Logo" src="https://i.imgur.com/9qCfgcH.png">
+<br><br>
 
+make sure all modules are marked executable
+<br>
 debpg
 edith
 quickpg
@@ -23,17 +27,28 @@ avet/h.sh
 avet/i.sh
 avet/j.sh
 avet/k.sh
+<br><br>
+
 
 0rion Framework 2.0 updates include:
                                     no longer runs on a lamp/stack,
-                                    now uses a EDex-UI interface ( https://github.com/GitSquared/edex-ui ),
-                                    all payload generators have been updated,
+                                    now uses a EDex-UI interface https://github.com/GitSquared/edex-ui 
+                                    all payload generators have been updated
+
+<br>
                                     windows payload generator now uses avet with custom build scripts,
-                                    addition of metasploit "mass_exploiter" script ( https://github.com/r00t-3xp10it/resource_files ),
+                                    addition of metasploit "mass_exploiter" script https://github.com/r00t-3xp10it/resource_files 
+                                    <br><br>
+                                    
+                            
+<br>
                                     all recon modules have been combined into the "e.d.i.t.h" module. 
                                     the edith module is the soul 0rion module currently and is intended for blackbox testing.
-                                    between a few Y/N statements here is a current list of what edith will prefom on a target.
+                                    between a few Y/N statements here is a current list of what edith will preform on a target.
 
+<br><br>
+
+                             
 
                           Ask to start anonymous mode
                           1: nmap scan including shodan and vulscan nse scripts
@@ -263,7 +278,9 @@ avet/k.sh
                                                                                 vulns
                                                                                 creds
                                                                                 loot
-                                        
+                            
+ 
+ 
                            11:  (dig deeper?) metasploit auxiliary scan round 3: metasploit will open and run the following modules =                                                    
                                                                                  wordpress cp calendar sqli
                                                                                  wordpress ghost scanner
@@ -499,7 +516,6 @@ avet/k.sh
                                                  vulns
                                                  creds
                                                  loot
-
 
                            13: (exploit the target?) metasploit will attempt to autopwn the target and pop a shell
 
